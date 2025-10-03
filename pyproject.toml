@@ -1,0 +1,7 @@
+[project]
+name = "c1c4-rf44-gap"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
